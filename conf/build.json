@@ -27,7 +27,7 @@
       "to": "transcribe.py"
     }
   ],
-  "electronVersion": "38.7.2",
+  "electronVersion": "37.10.0",
   "appId": "com.bilibili.app",
   "mac": {
     "target": [
